@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my first Git repositiory
+This is my first Git repository.
+Author - Ashna Ali
